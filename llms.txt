@@ -1,0 +1,3 @@
+# Legacy Jarvis Phone email relay
+This archive describes the October 26, 2026 Gmail-send-only design. It is not the current voice-call app privacy notice.
+https://aditya2375.github.io/fieldwork-phone/
